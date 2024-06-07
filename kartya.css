@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+body {
+    background: url(aszok.png);
+    background-size: 300px;
+}
+
+#elsocim{
+    font-family: "Alex Brush";
+    font-size: 100px;
+    text-align: center;
+}
+
+.fk{
+color: black;
+font-weight: bold;
+}
+
+.piros{
+color: red;
+font-weight: bold;
+}
+.zold{
+color: green;
+font-weight: bold;
+}
+.kek{
+    color: blue;
+    font-weight: bold;
+}
+
+.kepalairas {
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+.alakzat {
+    text-align: center;
+    margin: 0;
+    font-size: 6em;
+}
+#felsorolas{
+    list-style-image: url('joker-felsorolas.png');
+    line-height: 3.5;
+}
